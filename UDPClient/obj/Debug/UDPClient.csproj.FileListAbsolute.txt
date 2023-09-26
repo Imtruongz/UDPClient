@@ -1,0 +1,7 @@
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\bin\Debug\UDPClient.exe.config
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.AssemblyReference.cache
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+D:\nam3 ki1\laptrinh hethong\CShap\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
